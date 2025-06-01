@@ -90,7 +90,9 @@ requirements.txt – Lists required Python libraries
 
 README.md – Project description and setup instructions
 
-##OUTPUT
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4e80a7fd-2828-435d-a629-bd047201f234)
 
 
 
